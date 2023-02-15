@@ -1,0 +1,113 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+}
+li{
+    float: left;
+    background-color: wheat;
+
+}
+a{
+    padding: 5px;
+    color:darkgreen;
+    margin: 10px;
+    overflow: auto;
+}ul{
+    padding: 10px;
+ }
+ p{
+     color: darkcyan;
+     font-size: small;
+     font-family: mry_KacstQurn;
+     margin: 5px;
+     background-color:lavender;
+     padding-top: 5px;
+ }
+ a :hover{
+     color: cadetblue;
+ }
+ h1{
+     color: tomato;
+     font-family: cursive;
+     padding: 0px;
+     font-size: xxx-largelarger;
+ }
+th,td{
+    border: grey 2px solid;
+    border-collapse: collapse;
+}
+table{
+    color: black;
+    padding: 5px;
+    width: 90%;
+    background-color: white;
+}
+td{
+    color: chocolate;font-family: Sahadeva;
+    background-color: mintcream;
+}
+.anime{
+    color: gainsboro;
+    border: 2px black solid;
+    background-color: turquoise;
+    font-family: Sahadeva;
+    padding: 30px;
+    margin: 15px;
+    text-align: center;
+}
+.cars{
+    color: aqua;
+    background-color: plum;
+    border: 2px solid grey;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.Fruits{
+    color: lightsalmon;
+    font-family: Kalimati;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightskyblue;
+    border: 2px dimgrey solid;
+    text-align: center;
+}
+.fruits{
+    color: olivedrab;
+    font-family: KacstQurn;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    background-color: wheat;
+    border: 2px mediumslateblue solid;
+}
+p{
+    background-color:transparent;
+}
+label{
+    background-color: transparent;
+    font-family: "cursive";
+    color: black;
+    padding-top: 15px;
+    font-size: 20px;
+    text-space:50px;
+    text-align: -webkit-center;
+    text-decoration: aquamarine;
+    margin-right: 25px;
+    border-spacing: 30px;
+}
+input{
+    color: chocolate;
+    font-family: Sahadeva;
+    alignment: center;
+    border: hotpink 1px solid;
+    text-align: -moz-center;
+    word-spacing: 0px;
+    padding: 10px;
+
+}
+body{
+    background-color : wheat;
+    alignment: center;
+}
+
